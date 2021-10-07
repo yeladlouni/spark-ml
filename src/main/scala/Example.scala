@@ -1,6 +1,5 @@
-import org.apache.spark.ml.classification.LogisticRegression
 import org.apache.spark.ml.feature.RFormula
-import org.apache.spark.ml.regression.LinearRegression
+import org.apache.spark.ml.regression.{GBTRegressionModel, LinearRegression}
 import org.apache.spark.sql.SparkSession
 
 object Example {

@@ -1,0 +1,5 @@
+1. Créer une application Spark en utilisant Scala qui permet de prédire le prix d'une voiture à partir des 9 variables (model, mileage, mpg, transmission, ...)
+2. Créer un dataframe qui englobe l'ensemble de données
+4. Créer un split de données 70% train et 30% test
+5. Créer un modèle pour la prédiction du prix d'une voiture en utilisant les données training
+6. Appliquer le modèle sur les données de test
